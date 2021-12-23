@@ -1,0 +1,55 @@
+_repo: Fabre-s-Book-of-Insects_67000
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Detmold, Edward Julius
+    alias: Detmold, E. J. (Edward Julius)
+    birthdate: 1883
+    deathdate: 1957
+    gutenberg_agent_id: '39517'
+    url: http://www.gutenberg.org/2009/agents/39517
+  translator:
+    agent_name: Teixeira de Mattos, Alexander
+    aliases:
+    - Mattos, Alexander Teixeira de
+    - Teixeira de Mattos, Alexander Louis
+    - Mattos, Alexander Teixera de
+    - Mattos, Alexander Teixeria de
+    - De Mattos, Alexander Teixeira
+    birthdate: 1865
+    deathdate: 1921
+    gutenberg_agent_id: '736'
+    url: http://www.gutenberg.org/2009/agents/736
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Teixeira_de_Mattos
+creator:
+  author:
+    agent_name: Fabre, Jean-Henri
+    aliases:
+    - Fabre, Jean Henri Casimir
+    - Fabre, J. Henri
+    - Fabre, Henri
+    birthdate: 1823
+    deathdate: 1915
+    gutenberg_agent_id: '735'
+    url: http://www.gutenberg.org/2009/agents/735
+    wikipedia: https://en.wikipedia.org/wiki/Jean_Henri_Fabre
+  editor:
+    agent_name: Stawell, Rodolph, Mrs.
+    aliases:
+    - Key, Maud Margaret
+    - Stawell, Maud Margaret Key
+    - Stawell, Mrs. Rodolph
+    gutenberg_agent_id: '39350'
+    url: http://www.gutenberg.org/2009/agents/39350
+description: ''
+gutenberg_issued: '2021-12-22'
+identifiers:
+  gutenberg: '67000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Fabre's Book of Insects
+url: http://www.gutenberg.org/ebooks/67000
